@@ -1,0 +1,16 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "A CLI Calculator mande in JavaScript using NodeJS and Commander",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Luiz Sena",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^11.1.0"
+  }
+}
